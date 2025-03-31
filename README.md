@@ -14,13 +14,8 @@ Este é um projeto desenvolvido com **HTML, CSS e JavaScript**, onde apresento m
 ✨ Animações e transições suaves para melhor experiência do usuário  
 ✨ Seção de projetos com detalhes e links para repositórios  
 
-## 📷 Preview  
-![Screenshot do Portfólio](link-da-imagem-aqui) *(Substitua pelo link da imagem do seu projeto)*  
-
 ## 🚀 Como acessar  
-Você pode acessar o portfólio online através do link abaixo:  
-
-🔗 [Demonstração ao vivo]([cauaalencarr.github.io/Portf-lio/](https://cauaalencarr.github.io/Portf-lio/))  
+Você pode acessar o portfólio online através do link na descrição
 
 ## 💡 Feedbacks são sempre bem-vindos! 😃  
 Sinta-se à vontade para explorar, sugerir melhorias ou contribuir!  
